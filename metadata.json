@@ -1,0 +1,6 @@
+{
+  "name": "Crunch City",
+  "description": "Arcade open-city driving and demolition game where you smash buildings and traffic for cash, evade police, and unlock 12 custom vehicles in the shop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
